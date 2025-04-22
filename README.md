@@ -16,9 +16,9 @@
 
 ### 🛠️ Compétences techniques
 
-- Langages : `Python`, `HTML/CSS`, `JavaScript`  
-- Frameworks : `React.js` *(en cours)*  
-- Outils : `Linux`, `Git/GitHub`, `Cisco Packet Tracer`  
+- Langages : `Python`, `HTML/CSS`, `JavaScript`
+- Frameworks : `Angular`, `Angular Material UI`, `React.js` *(en cours)*  
+- Outils : `Linux`, `Git/GitHub`, `Cisco Packet Tracer` 
 - Domaines : sécurité réseau, virtualisation, cloud (en découverte)
 
 <p align="left">
