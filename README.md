@@ -50,8 +50,8 @@
 
 ### 📫 Me contacter
 
-- ✉️ Email : *à remplir quand tu veux le partager*  
-- 💼 LinkedIn : [linkedin.com/in/anna-ka](https://linkedin.com/in/anna-ka) *(ajoute ton lien si tu en as un)*
+- ✉️ Email : annakasy24@gmail.com  
+- 💼 LinkedIn : https://linkedin.com/in/anna-ka
 
 ---
 
