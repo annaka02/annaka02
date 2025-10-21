@@ -71,7 +71,7 @@
 
 ---
 
-### 🎯 Objectifs 2025
+### 🎯 Objectifs 2026
 
 - ✅ Maîtriser les bases de l’IA et du Machine Learning  
 - 🔐 Créer un projet IA appliqué à la cybersécurité  
